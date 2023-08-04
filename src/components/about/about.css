@@ -2,6 +2,7 @@
     display:grid ;
     grid-template-columns: 45% 50%;
     gap: 15%;
+    left: 1rem;
 
 }
 
