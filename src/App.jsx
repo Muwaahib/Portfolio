@@ -8,7 +8,7 @@ import Nav from './components/nav/Nav'
 import Services from './components/Services/Services'
 import Portfolio from './components/portofolio/Portfolio'
 import Footer from './components/footer/Footer'
-// import Testimonials from './components/testimonials/Testimonials'
+import Testimonials from './components/testimonials/Testimonials'
 
 function App() {
   const [count, setCount] = useState(0)
