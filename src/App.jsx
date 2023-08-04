@@ -7,7 +7,7 @@ import Nav from './components/nav/Nav'
 // import Experience from './components/experience/experience'
 // import Services from './components/Services/Services'
 import Portfolio from './components/portofolio/Portfolio'
-// import Footer from './components/footer/Footer'
+import Footer from './components/footer/Footer'
 // import Testimonials from './components/testimonials/Testimonials'
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
     <Portfolio/>
     {/* <Testimonials/> */}
     <Contact/>
-    {/* <Footer/> */}
+    <Footer/>
     
     </>
   )
