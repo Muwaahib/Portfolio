@@ -5,6 +5,7 @@
 }
 
 .Portfolio__item{
+    width: 80%;
     background: var(--color-bg-variant);
     padding: 0.5rem;
     border-radius: 2rem;
