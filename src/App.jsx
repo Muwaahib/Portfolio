@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import './App.css'
 import Header from './components/header/Header'
-// import About from './components/about/About'
-// import Contact from './components/contact/Contact'
+import About from './components/about/About'
+import Contact from './components/contact/Contact'
 import Nav from './components/nav/Nav'
 // import Experience from './components/experience/experience'
 // import Services from './components/Services/Services'
@@ -17,12 +17,12 @@ function App() {
     <>
     <Header/>
     <Nav/>
-    {/* <About/> */}
+    <About/>
     {/* <Experience/> */}
     {/* <Services/> */}
     {/* <Portfolio/> */}
     {/* <Testimonials/> */}
-    {/* <Contact/> */}
+    <Contact/>
     {/* <Footer/> */}
     
     </>
